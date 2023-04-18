@@ -31,12 +31,10 @@
   Ou acesse o link para IOS:
 </a>
 
-<br>
 
 ![image](https://user-images.githubusercontent.com/85966695/232897956-a073a430-8ac9-4a38-b91d-b9fe769efb12.png)
 
-<a href="exp://u.expo.dev/update/846dd1d9-c13a-4508-9ddf-d71cc116ef80">
-  Ou acesse o link para Android:
-</a>
+[Ou acesse o link para Android:](exp://u.expo.dev/update/846dd1d9-c13a-4508-9ddf-d71cc116ef80)
+ 
 
  
