@@ -27,10 +27,16 @@
 
 ![image](https://user-images.githubusercontent.com/85966695/232897690-220c7a16-16c3-4c38-899e-4c5a3a1cc1b6.png)
 
-Ou acesse o link para IOS: exp://u.expo.dev/update/e79b1085-40ef-48f8-b1f9-20dffa4ed901
+<a href="exp://u.expo.dev/update/e79b1085-40ef-48f8-b1f9-20dffa4ed901">
+  Ou acesse o link para IOS:
+</a>
 
 <br>
 
 ![image](https://user-images.githubusercontent.com/85966695/232897956-a073a430-8ac9-4a38-b91d-b9fe769efb12.png)
 
-Ou acesse o link para Android :exp://u.expo.dev/update/846dd1d9-c13a-4508-9ddf-d71cc116ef80
+<a href="exp://u.expo.dev/update/846dd1d9-c13a-4508-9ddf-d71cc116ef80">
+  Ou acesse o link para Android:
+</a>
+
+ 
